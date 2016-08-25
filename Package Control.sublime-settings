@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Add Folder To Project",
+		"BetterFindBuffer",
+		"Compare Side-By-Side",
+		"Emmet",
+		"Find++",
+		"FindKeyConflicts",
+		"Focus File on Sidebar",
+		"Gist",
+		"HTML Minifier",
+		"HTMLBeautify",
+		"Indent XML",
+		"iOpener",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Origami",
+		"Package Control",
+		"PackageSync",
+		"Quick File Creator",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Tag",
+		"Terminal"
+	]
+}

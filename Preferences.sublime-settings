@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"font_size": 15,
+	"hot exit": false,
+	"ignored_packages":
+	[
+		"Compare Side-By-Side",
+		"Python Breakpoints",
+		"SublimeLinter-xmllint",
+		"SublimeXiki"
+	],
+	"save_on_focus_lost": true
+}
